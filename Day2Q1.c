@@ -13,4 +13,5 @@ int main(){
     printf("area=%d,perimeter=%d\n",area,perimeter);
     
     return 0;
+
 }
